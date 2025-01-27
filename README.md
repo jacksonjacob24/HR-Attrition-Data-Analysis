@@ -1,8 +1,7 @@
 # HR Attrition Dashboard 
 
 ## Overview
-This dashboard provides insights into employee attrition at a company. It includes various visualizations to help understand the factors contributing to attrition rates.
-
+This dashboard offers an overview of employee attrition within the company, featuring visualizations that highlight key factors influencing attrition rates.
 ## Visualizations
 
 ### 1. Overall Attrition Rate
